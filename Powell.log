@@ -1,0 +1,26 @@
+INFO:root: Server Powell: Port 12204 started.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root:Update from new Client latte
+INFO:root: Added Client latte -> AT Alford +47614087.4528 IAMAT latte +37.322752-122.030836 1401072205.798801
+INFO:root: Server Alford -> Updated from Server Powell
+INFO:root: Server Bolden -> Updated from Server Powell
+INFO:root: Connection Lost.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Server Powell shutting down.
+INFO:root: Server Powell: Port 12204 started.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root:Update from new Client latte
+INFO:root: Added Client latte -> AT Alford +47614101.9076 IAMAT latte +37.322752-122.030836 1401072205.798801
+INFO:root: Server Alford -> Updated from Server Powell
+INFO:root: Server Bolden -> Updated from Server Powell
+INFO:root: Connection Lost.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Server Powell shutting down.

@@ -1,0 +1,68 @@
+INFO:root: Server Alford: Port 12200 started.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: New Client latte
+INFO:root: Server Response -> AT Alford +47614087.4528 IAMAT latte +37.322752-122.030836 1401072205.798801
+INFO:root: Location update sent to neighbors.
+INFO:root: Server Powell -> Updated from Server Alford
+INFO:root: Server Parker -> Updated from Server Alford
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Line Received
+ERROR:root: Invalid Line Received
+INFO:root: Connection Lost.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: New Client coffee
+INFO:root: Server Response -> AT Alford +47189909.0028 IAMAT coffee +34.151324-118.028232 1401496386.27158
+INFO:root: Location update sent to neighbors.
+INFO:root: Server Powell -> Updated from Server Alford
+INFO:root: Server Parker -> Updated from Server Alford
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Line Received
+ERROR:root: Invalid Line Received
+INFO:root: Connection Lost.
+INFO:root: Server Alford shutting down.
+INFO:root: Server Alford: Port 12200 started.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: New Client latte
+INFO:root: Server Response -> AT Alford +47614101.9076 IAMAT latte +37.322752-122.030836 1401072205.798801
+INFO:root: Location update sent to neighbors.
+INFO:root: Server Powell -> Updated from Server Alford
+INFO:root: Server Parker -> Updated from Server Alford
+INFO:root: Connection Made.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Line Received
+ERROR:root: Invalid Line Received
+INFO:root: Connection Lost.
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: New Client coffee
+INFO:root: Server Response -> AT Alford +47189923.4609 IAMAT coffee +34.151324-118.028232 1401496386.27158
+INFO:root: Location update sent to neighbors.
+INFO:root: Server Powell -> Updated from Server Alford
+INFO:root: Server Parker -> Updated from Server Alford
+INFO:root: Connection Made.
+INFO:root: Line Received
+INFO:root: Found duplicate location update from Server Alford
+INFO:root: Connection Lost.
+INFO:root: Line Received
+ERROR:root: Invalid Line Received
+INFO:root: Connection Lost.
+INFO:root: Server Alford shutting down.
